@@ -1,0 +1,46 @@
+.sectionHours{
+    background-color: #7D72F4;
+    border-bottom: 4px solid #FBFF1E;
+}
+.h2t{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+}
+.titlePrimary .white img{
+    width: 36px;
+    height: 36px;
+}
+
+.continerHours h3{
+    width: 290px;
+    border-bottom: 1px solid #D1CFCF;
+    padding: 20px 0px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.containerInformations{
+    padding: 2rem 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    
+}
+
+.containerInformations div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+
+}
+.containerInformations a{
+    text-decoration: none;
+    font-family: 'poppis', sans-serif;
+    font-weight: 600;
+    font-size: 10px;
+    color: #FFF;
+}

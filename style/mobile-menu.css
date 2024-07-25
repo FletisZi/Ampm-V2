@@ -1,0 +1,40 @@
+.mobile-menu{
+    position: absolute;
+    right: 15vw;
+    display: flex;
+    cursor: pointer;
+    flex-direction: column;
+    align-items: end;
+    gap: 6px;
+    
+}
+
+.mobile-menu div{
+    height: 4px;
+    background-color: #FBFF1E;
+    border-radius: 6px;
+    transition: 0.3s linear;
+    
+    
+}
+
+.line1{
+    width: 32px;
+}
+.line2{
+    width: 24px;
+}
+.line3{
+    width: 15px;
+}
+
+.mobile-menu.active .line1{
+    transform: rotate(-45deg) translate(-50%,50%);
+}
+.mobile-menu.active .line2{
+    opacity: 0;
+}
+.mobile-menu.active .line3{
+    width: 32px;
+    transform: rotate(45deg) translate(-38%,50%);
+}

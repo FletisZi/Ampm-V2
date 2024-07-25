@@ -1,0 +1,180 @@
+{
+    "foods":[
+
+        {
+            "urlIMG":"../public/img/PAO_CHAPA.jpg",
+            "title":"Pão na chapa",
+            "description":"Pão com manteiga.",
+            "priceReal": "5",
+            "priceCent":",99"
+        },
+        {
+            "urlIMG":"../public/img/PAO_C_REQUEIJAO.jpeg",
+            "title":"Pão na chapa com requeijão",
+            "description":"Pão com manteiga na chapa finalizado com requeijão.",
+            "priceReal": "6",
+            "priceCent":",99"
+        },
+        {
+            "urlIMG":"../public/img/PAO_DE_QUEIJO.jpeg",
+            "title":"Pão de queijo pequeno",
+            "description":"Pão de queijo pequeno.",
+            "priceReal": "1",
+            "priceCent":",99"
+        },
+        {
+            "urlIMG":"../public/img/PAO_DE_QUEIJO_G.jpg",
+            "title":"Pão de queijo grande",
+            "description":"Pão de queijo grande.",
+            "priceReal": "6",
+            "priceCent":",99"
+        },
+        {
+            "urlIMG":"../public/img/BAURU.jpg",
+            "title":"Bauru",
+            "description":"Bauru rechedo com presunto, mussarela.",
+            "priceReal": "9",
+            "priceCent":",50"
+        },
+        {
+            "urlIMG":"../public/img/COXINHA.JPG",
+            "title":"Coxinha c/ catupiry",
+            "description":"Coxinha de frango com catupiry.",
+            "priceReal": "7",
+            "priceCent":",99"
+        },
+                {
+            "urlIMG":"../public/img/KIBE.jpg",
+            "title":"Kibe",
+            "description":"Kibe.",
+            "priceReal": "7",
+            "priceCent":",50"
+        },
+        {
+            "urlIMG":"../public/img/CROISSANT.jpg",
+            "title":"Croissant",
+            "description":"Croissant sabores presunto e queijo ou frango.",
+            "priceReal": "7",
+            "priceCent":",50"
+        },
+        {
+            "urlIMG":"../public/img/ESFIHA.JPG",
+            "title":"Esfiha",
+            "description":"Esfiha sabores queijo e carne.",
+            "priceReal": "7",
+            "priceCent":",50"
+        },
+        {
+            "urlIMG":"../public/img/HAMBURGUER.JPG",
+            "title":"Hambúrguer",
+            "description":"Hambúrguer com requeijão.",
+            "priceReal": "8",
+            "priceCent":",90"
+        },
+        {
+            "urlIMG":"../public/img/omelete_recheado.JPG",
+            "title":"Omelete Recheado",
+            "description":"Omelete rechedo (presunto, mussarela, tomate, requeijão e tempero).",
+            "priceReal": "18",
+            "priceCent":",90"
+        },
+        {
+            "urlIMG":"../public/img/BEIRUTE.JPG",
+            "title":"Beirute",
+            "description":"Beirute (presunto, mussarela, tomate, requeijão e tempero).",
+            "priceReal": "16",
+            "priceCent":",90"
+        }
+    ],
+    "bebidas":[
+        {
+            "urlIMG":"../public/img/CAFE_EXPRESSO.jpg",
+            "title":"Café Expresso Longo",
+            "description":"Café Expresso Longo ",
+            "priceReal": "5",
+            "priceCent":",99"
+        },
+        {
+            "urlIMG":"../public/img/CAPUCCINO.jpg",
+            "title":"CAPPUCCINO",
+            "description":"Cappuccino sabores tradicional, Alpino, Mokaccino dois frades e Gourmet.",
+            "priceReal": "8",
+            "priceCent":",99"
+        },
+        {
+            "urlIMG":"../public/img/CAPUCCINO_GELADO.jpg",
+            "title":"Cappuccino Gelado",
+            "description":"Cappuccino docê gelado c/ nutella ou Alpino ",
+            "priceReal": "12",
+            "priceCent":",99"
+        },
+        {
+            "urlIMG":"../public/img/JACOBINHO.png",
+            "title":"Jacobinho",
+            "description":"Suco laranja 300ml.",
+            "priceReal": "8",
+            "priceCent":",90"
+        },
+        {
+            "urlIMG":"../public/img/JACOBINHO.png",
+            "title":"Jacobinho",
+            "description":"Suco laranja 500ml.",
+            "priceReal": "12",
+            "priceCent":",90"
+        },
+        {
+            "urlIMG":"../public/img/JACOBINHO.png",
+            "title":"Jacobinho",
+            "description":"Suco laranja 900ml.",
+            "priceReal": "14",
+            "priceCent":",90"
+        },
+        {
+            "urlIMG":"../public/img/COCACOLA_LATA.webp",
+            "title":"Coca-cola",
+            "description":"Coca-cola lata 350ml.",
+            "priceReal": "5",
+            "priceCent":",00"
+        }     
+        
+    ],
+    "doces":[
+        {
+            "urlIMG":"../public/img/Muffin.JPG",
+            "title":"Muffin",
+            "description":"Muffin sabores de baunilha e chocolate.",
+            "priceReal": "8",
+            "priceCent":",99"
+        },
+        {
+            "urlIMG":"../public/img/Donuts.JPG",
+            "title":"Donut's",
+            "description":"Donut's sabores de chocolate, doce de leite e frutas vemelhas.",
+            "priceReal": "8",
+            "priceCent":",99"
+        },
+
+        {
+            "urlIMG":"../public/img/Cupcake.JPG",
+            "title":"Cupcake",
+            "description":"Cupcake chocolate.",
+            "priceReal": "7",
+            "priceCent":",99"
+        },
+        {
+            "urlIMG":"../public/img/Sonho.JPG",
+            "title":"Sonho",
+            "description":"Sonho sabores creme e doce de leite.",
+            "priceReal": "6",
+            "priceCent":",99"
+        },
+        {
+            "urlIMG":"../public/img/FATIA_BOLO_RECHEADO.jpg",
+            "title":"Fatia de bolo recheado",
+            "description":"Fatia de bolo rechado sabores (Chocolate, prestigio, doce de leite, ninho).",
+            "priceReal": "12",
+            "priceCent":",90"
+        }         
+    ]
+    
+}
